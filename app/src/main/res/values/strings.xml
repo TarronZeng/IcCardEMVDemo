@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IcCardEMV</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="str_openIcCard">openIcCard</string>
+	<string name="str_activate">activate</string>
+	<string name="str_seek">seek</string>
+	<string name="str_response">response:</string>
+
+	<string name="str_exeAPDU">exeAPDU</string>
+	<string name="str_move">Electric</string>
+	<string name="str_close">close</string>	
+</resources>
